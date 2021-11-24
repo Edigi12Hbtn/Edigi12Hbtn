@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Edison
-#### Physics - Machine Learning
-![Physics - Machine Learning](https://c.pxhere.com/images/e8/42/c7e75c1e7ac20eaa6c679d9cc1f1-1444403.jpg!d)
+#### Physics - Software Development
+![Physics](https://c.pxhere.com/images/e8/42/c7e75c1e7ac20eaa6c679d9cc1f1-1444403.jpg!d)
 
-I'm a physicist from Medellín, Colombia pursuing a career in data science.
+I'm a physicist from Medellín, Colombia pursuing a career in the world of software development.
 
-I've been more than 1.7 years coding and since 2020 involved in machine learning.
+I've been coding for nearly 2 years.
 
 
 
-Skills: Tensorflow / Numpy / Python / Pandas / C
+Skills: Python / Golang / C / Tensorflow / Keras
 
-- 🌱 I’m currently learning Machine Learning Ops and data science 
+- 🌱 I’m currently learning AWS and SQL. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Edigi12Hbtn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/edisongiraldoa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EdisonGiraldoA1)  
